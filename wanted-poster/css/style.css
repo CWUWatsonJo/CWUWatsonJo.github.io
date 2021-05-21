@@ -101,7 +101,7 @@ h4 {
     
 }
 
-div > h4:first-child {
+div > h4 {
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 8rem;
