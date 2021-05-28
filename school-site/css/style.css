@@ -100,16 +100,16 @@ html {
 }
 
 h1 {
-    letter-spacing: .125rem;
     font-family: Josefinslab, Garamond, serif;
+    letter-spacing: .125rem;
     font-size: 3.75rem;
     text-align: center;
     margin: 1.125rem;
 }
 
 h2 {
-    letter-spacing: .125rem;
     font-family: Josefinslab, Garamond, serif;
+    letter-spacing: .125rem;
     font-size: 1.5rem;
 }
 
@@ -121,7 +121,6 @@ p,
 li {
     font-size: .75rem;
     letter-spacing: .03125rem;
-    line-height: 1.5;
     word-spacing: .125;
 }
 
