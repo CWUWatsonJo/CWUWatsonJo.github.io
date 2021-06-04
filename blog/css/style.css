@@ -47,3 +47,29 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+
+/*h1 {
+
+}
+
+nav {
+
+}
+*/
+.main-section {
+    display: flex;
+}
+
+.artical-image {
+    float: left;
+    padding-right: 1rem;
+    padding-bottom: 1.5rem;
+}
+/*
+.subsection {
+
+}
+aside {
+
+}
+*/
